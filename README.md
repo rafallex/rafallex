@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**rafallex/rafallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Rafael
+ 
+M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027). Previously B.Sc. in **Data Science** at NOVA IMS (Lisbon) with an Erasmus semester at Lund University. Portuguese, based between Stockholm and Uppsala.
+ 
+## What I've been working on
+ 
+- **Vision Transformers for emotion recognition** — fine-tuned ViT-Base on RAF-DB (96% test accuracy on 7-class emotion) and served it via FastAPI behind a Furhat social robot tutor. → [IntelligentSystemsProject](https://github.com/rafallex/IntelligentSystemsProject)
+- **Spatial football analytics** — a Gradient Boosting pass-evaluation model (xDA-P) on StatsBomb event data from five European leagues. → [modelling-football-1RT001](https://github.com/rafallex/modelling-football-1RT001)
+- **Changepoint / HMM methods for microfluidic bacterial growth** — benchmarked five time-to-detection methods on real microfluidic data. → [Research-Methodology](https://github.com/rafallex/Research-Methodology)
+- **Deep learning from scratch** — NumPy-only fully-connected network to residual CNNs on MNIST (98.0% → 99.29% test accuracy). → [deep-learning-1RT720](https://github.com/rafallex/deep-learning-1RT720)
+## Tools I reach for
+ 
+**Languages:** Python (daily), SQL, R, MATLAB, Bash
+**ML / DL:** PyTorch, Hugging Face Transformers, scikit-learn, NumPy, Pandas, SciPy
+**Stats & applied math:** Gaussian Processes, Hidden Markov Models, Bayesian inference, changepoint detection, bootstrap, functional data analysis
+**Systems:** Git, Docker, FastAPI, SQLite, Streamlit
+ 
+## Currently
+ 
+Open to data science, machine learning, applied statistics, and research / PhD positions in Sweden and the EU — full-time from June 2027, summer 2026 internships now.
+ 
+## Reach me
+ 
+- **Email:** rafaeltproenca@gmail.com
+- **LinkedIn:** [linkedin.com/in/rafael-proença](https://linkedin.com/in/rafael-proença)
