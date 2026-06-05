@@ -4,6 +4,7 @@ M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (
 
 ## What I've been working on
 
+- **Semi-supervised distillation for multimodal cancer-cell classification** — grew the effective training set on a 12-patient, patient-disjoint Kaggle benchmark with hard pseudo-labels (Lee 2013) then soft-target distillation (Hinton 2015), lifting public-leaderboard AUC from 0.7455 to 0.8236; dual EfficientNet-B0 + AdaBN, with a full LaTeX methodology write-up and an honest failure analysis. → [multimodal-microscopy-distillation](https://github.com/rafallex/multimodal-microscopy-distillation)
 - **LoRA fine-tuning of Qwen3-0.6B for a Greek mythology chatbot** — SFT on a BeautifulSoup-scraped Theoi.com corpus with generic Q&A mixed in to prevent catastrophic forgetting; Gradio UI for side-by-side base vs fine-tuned comparison. → [greek-mythology-chatbot-1RT730](https://github.com/rafallex/greek-mythology-chatbot-1RT730)
 - **Vision Transformers for emotion recognition** — fine-tuned ViT-Base on RAF-DB (96% test accuracy on 7-class emotion) and served it via FastAPI behind a Furhat social robot tutor. → [intelligent-interactive-systems-1MD032](https://github.com/rafallex/intelligent-interactive-systems-1MD032)
 - **Changepoint / HMM methods for microfluidic bacterial growth** — benchmarked five time-to-detection methods on real microfluidic data. → [research-methodology-1MD048](https://github.com/rafallex/research-methodology-1MD048)
