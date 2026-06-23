@@ -30,7 +30,7 @@ M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (
 
 ## Currently
 
-Research intern at **Furhat Robotics** (Jun – Dec 2026). Looking for **computer-vision, ML / AI engineering, and deep-learning research** roles — and a master's thesis — in Sweden and the EU.
+Research intern at **Furhat Robotics** (Jun – Dec 2026). Looking for **computer-vision, ML / AI engineering, and deep-learning research** roles in Sweden.
 
 ## Reach me
 
