@@ -1,12 +1,13 @@
 # Hi, I'm Rafael
 
-M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**, and I'm currently a research intern at **Furhat Robotics** (Stockholm) on multimodal perception. Portuguese, based between Stockholm and Uppsala.
+M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**. I'm a research intern at **Furhat Robotics** (Stockholm) on multimodal perception until December, and from January 2027 I'm doing my **master's thesis at AI Sweden** on continuous, active federated learning for image data streams. Portuguese, based in Stockholm.
 
 ## What I've been working on
 
 **Computer vision & medical imaging**
 
 - **Semi-supervised distillation for multimodal cancer-cell classification** — on a hard, patient-disjoint 12-patient Kaggle benchmark, I grew the effective training set with hard pseudo-labels (Lee 2013) then soft-target knowledge distillation (Hinton 2015) on a dual EfficientNet-B0 with AdaBN — the change that mattered more than scaling the network. Full LaTeX methodology write-up and an honest failure analysis. → [multimodal-microscopy-distillation](https://github.com/rafallex/multimodal-microscopy-distillation)
+- **Radiology reference-segmentation platform** — team project (1MD036) building a tool for managing and reviewing reference segmentations of medical images; I'm building the front end as a 3D Slicer module connected to the team's FastAPI backend and PostgreSQL database.
 - **Vision Transformers for emotion recognition** — fine-tuned ViT-Base on RAF-DB for facial-emotion recognition, feeding the dialogue layer of a Furhat social-robot tutor (group project). → [furhat-emotion-tutor](https://github.com/rafallex/furhat-emotion-tutor)
 - **Classical image analysis from the toolbox up** — hand-written histogram operations, Otsu and iterative thresholding, colour segmentation, spatial filtering, multispectral Landsat imagery, and rigid image registration (intensity- and feature-based) in MATLAB. → [classical-image-analysis](https://github.com/rafallex/classical-image-analysis)
 
@@ -26,11 +27,13 @@ M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (
 
 **Languages:** Python (daily), SQL, R, MATLAB, Bash
 **Deep learning & computer vision:** PyTorch, Hugging Face Transformers, timm; Vision Transformers, CNNs, transfer learning, knowledge distillation, semi-supervised learning, PEFT / LoRA
-**Also:** scikit-learn, scikit-image, NumPy, SciPy, Pandas; Gradio; Git, Jupyter, Kaggle; LLM APIs (OpenAI, Gemini)
+**Also:** scikit-learn, scikit-image, NumPy, SciPy, Pandas; FastAPI, PostgreSQL, 3D Slicer; Gradio; Git, Jupyter, Kaggle; LLM APIs (OpenAI, Gemini)
 
 ## Currently
 
-Research intern at **Furhat Robotics** (Jun – Dec 2026). Looking for **computer-vision, ML / AI engineering, and deep-learning research** roles in Sweden.
+- Research intern at **Furhat Robotics** (Jun – Dec 2026).
+- Master's thesis at **AI Sweden** (Jan – Jun 2027): continuous, active federated learning on image data streams.
+- Interested in **PhD positions** in computer vision and machine learning after I graduate in mid-2027.
 
 ## Reach me
 
