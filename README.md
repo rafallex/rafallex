@@ -1,6 +1,6 @@
 # Hi, I'm Rafael
 
-M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**. I'm a research intern at **Furhat Robotics** (Stockholm) on multimodal perception until December, and from January 2027 I'm doing my **master's thesis at AI Sweden** on continuous, active federated learning for image data streams. Portuguese, based in Stockholm.
+M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**. I'm currently a research intern at **Furhat Robotics** (Stockholm) on multimodal perception. Portuguese, based in Stockholm.
 
 ## What I've been working on
 
@@ -31,9 +31,7 @@ M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (
 
 ## Currently
 
-- Research intern at **Furhat Robotics** (Jun – Dec 2026).
-- Master's thesis at **AI Sweden** (Jan – Jun 2027): continuous, active federated learning on image data streams.
-- Interested in **PhD positions** in computer vision and machine learning after I graduate in mid-2027.
+Research intern at **Furhat Robotics** (Jun – Dec 2026). Master's thesis in spring 2027.
 
 ## Reach me
 
