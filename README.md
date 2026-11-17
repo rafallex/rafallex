@@ -1,6 +1,6 @@
 # Hi, I'm Rafael
 
-M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2025 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**. I'm currently a research intern at **Furhat Robotics** (Stockholm) on multimodal perception. Portuguese, based in Stockholm.
+M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (Sep 2024 – Jun 2027), building on a B.Sc. in **Data Science** from NOVA IMS (Lisbon) and an Erasmus semester at Lund University. I work on **computer vision and deep learning**. I'm currently a research intern at **Furhat Robotics** (Stockholm) on multimodal perception. Portuguese, based in Stockholm.
 
 ## What I've been working on
 
@@ -14,6 +14,7 @@ M.Sc. student in **Image Analysis and Machine Learning** at Uppsala University (
 **Machine learning & statistics**
 
 - **Time-to-detection in microfluidic bacterial growth** — benchmarking Gaussian processes, changepoint detection, bootstrap, HMMs, and functional data analysis to find the earliest reliable call that an antibiotic is working. → [bacterial-growth-detection](https://github.com/rafallex/bacterial-growth-detection)
+- **Markov processes, checked by simulation** — notebooks that put simulated numbers next to the theory for mixing times, Pólya recurrence of random walks and iterated function systems, plus a group project modelling the secretary problem as an absorbing Markov chain, with a written report. → [markov-processes-simulations](https://github.com/rafallex/markov-processes-simulations)
 - **Gradient-boosted pass-danger model** — flags passes likely to create a shot from StatsBomb event data and ranks passers across five leagues, with pitch-control and circular-statistics run analysis. → [football-pass-danger-model](https://github.com/rafallex/football-pass-danger-model)
 - **Deep learning from scratch** — a NumPy-only fully-connected network with hand-written backprop, then a PyTorch progression to a residual CNN on MNIST. → [mnist-from-scratch-to-resnet](https://github.com/rafallex/mnist-from-scratch-to-resnet)
 
